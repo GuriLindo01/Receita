@@ -29,3 +29,10 @@
 body{
     background-color: rgb(110, 144, 207);
 }
+
+.c1{
+    background-color: aliceblue;
+    height: 300px;
+    width: 300px;
+    border-radius: 9px;
+}
