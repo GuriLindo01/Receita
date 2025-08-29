@@ -20,4 +20,13 @@
     height: 20vh;
     border-radius: 8px;
     display: flex;
+    margin-top: 5vh;
+    position: absolute;
+    margin-left: 30%;
+}
+
+.s1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
