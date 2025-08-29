@@ -20,13 +20,13 @@
     height: 20vh;
     border-radius: 8px;
     display: flex;
-    margin-top: 5vh;
+    margin-top: 5vh;a
     position: absolute;
     margin-left: 30%;
 }
 
 .s1 {
-    display: flex;
+    display: table-column;
     align-items: center;
     justify-content: center;
 }
