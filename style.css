@@ -38,7 +38,7 @@ body{
     text-align: center;
     position: absolute;
     margin-left: 20px;
-     margin-top: 20px;
+    margin-top: 20px;
 }
 
 .c2{
@@ -47,7 +47,9 @@ body{
     width: 40dvw;
     border-radius: 9px;
     text-align: center;
-    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 500px;
 }
 
 .c3{
@@ -56,7 +58,9 @@ body{
     width: 40dvw;
     border-radius: 9px;
     text-align: center;
-    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 1000px;
 }
 
 .s1{
