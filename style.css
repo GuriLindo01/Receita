@@ -18,5 +18,10 @@
     background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/2554852-seamless-pattern-with-food-on-dark-blue-background-gratis-vetor.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 15dvh;
+    height: 10dvh;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: white;
 }
