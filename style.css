@@ -6,6 +6,7 @@
 .bandeira{
     height: 50px;
     width: 70px;
+    border-radius: 5px;
 }
 
 .comida {
@@ -65,5 +66,5 @@ body{
 }
 
 .s1{
-    display: flex;
+    display: flexbox;
 }
