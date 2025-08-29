@@ -19,6 +19,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 10dvh;
+    width: 100dvw;
     justify-content: center;
     align-items: center;
     font-size: 16px;
@@ -38,7 +39,7 @@ body{
     text-align: center;
     position: absolute;
     margin-left: 20px;
-    margin-top: 200px;
+    margin-top: 20dvh;
 }
 
 .c2{
