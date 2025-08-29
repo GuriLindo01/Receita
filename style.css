@@ -13,3 +13,11 @@
     text-align: center;
     height: 10vh;
 }
+
+.c1 {
+    background-color: gainsboro;
+    width: 45vw;
+    height: 20vh;
+    border-radius: 8px;
+    display: flex;
+}
