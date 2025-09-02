@@ -38,6 +38,7 @@ body{
     width: 90dvw;
     height: 40dvh;
     margin-top: 5dvh;
+    margin-right: 5dvw;
 }
 
 .c2{
@@ -45,12 +46,13 @@ body{
     width: 90dvw;
     height: 40dvh;
     margin-top: 5dvh;
-  
+    margin-right: 5dvw;
 }
 
 .c3{
     background-color: aliceblue;
     margin-top: 5dvh;
+    margin-right: 5dvw;
    
 }
 
