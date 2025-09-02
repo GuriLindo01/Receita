@@ -27,20 +27,20 @@ hr{
 }
 
 .c1{
-    margin-left: 2dvw;
-    background-color: aqua;
+    margin-left: 50%;
+    background-color: rgb(196, 202, 202);
     width: 45dvw;
 }
 
 .c2{
-    margin-right: 2dvw;
-    background-color: aqua;
+    margin-right: 50%;
+    background-color: rgb(157, 160, 160);
     width: 45dvw;
 }
 
 .c3{
-    margin-left: 2dvw;
-    background-color: aqua;
+    margin-left: 50%;
+    background-color: rgb(180, 180, 180);
     width: 45dvw;
 }
 
