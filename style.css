@@ -37,16 +37,16 @@ body{
     background-color: aliceblue;
     width: 90dvw;
     height: 40dvh;
-    margin-top: 2dvh;
-    margin-left: 5dvw;
+    margin-top: 10dvh;
+    margin-right: 5dvw;
 }
 
 .c2{
     background-color: aliceblue;
     width: 90dvw;
     height: 40dvh;
-    margin-top: 2dvh;
-    margin-right: 5dvw;
+    margin-top: 10dvh;
+    margin-left: 5dvw;
 }
 
 .c3{
