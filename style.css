@@ -58,3 +58,7 @@ body{
 .s1{
     display: block;
 }
+
+ul{
+    list-style-type: none;
+}
