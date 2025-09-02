@@ -47,7 +47,8 @@ body{
     height: 40dvh;
     margin-top: 10dvh;
     margin-left: 60dvw;
-    padding: 5px;
+    padding: 10px;
+    border-radius: 8px;
 }
 
 .c3{
