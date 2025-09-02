@@ -38,7 +38,7 @@ body{
     width: 30dvw;
     height: 40dvh;
     margin-top: 10dvh;
-    margin-left: 5dvw;
+    margin-left: 2dvw;
     border-radius: 8px;
 }
 
@@ -47,7 +47,7 @@ body{
     width: 30dvw;
     height: 40dvh;
     margin-top: 10dvh;
-    margin-left: 60dvw;
+    margin-right: 2dvw;
     padding: 10px;
     border-radius: 8px;
 }
