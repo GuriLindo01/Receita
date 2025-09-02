@@ -33,6 +33,7 @@ body{
 }
 
 .c1{
+    text-align: center;
     background-color: aliceblue;
     width: 90dvw;
     height: 40dvh;
