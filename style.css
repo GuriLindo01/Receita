@@ -21,6 +21,9 @@
 
 hr{
     margin-top: 0;
+    border: none;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7pkovO4caGw3jadZ9iA48V1VgSmNI7yI47g&s");
+    height: 4px;
 }
 
 .c1{
