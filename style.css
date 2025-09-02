@@ -56,7 +56,7 @@ body{
 }
 
 .s1{
-    display: block;
+    display: flex;
 }
 
 ul{
