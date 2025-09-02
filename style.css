@@ -38,7 +38,7 @@ body{
     width: 90dvw;
     height: 40dvh;
     margin-top: 10dvh;
-    margin-left: 2dvw;
+    margin-left: 50%;
     border-radius: 8px;
 }
 
@@ -47,17 +47,25 @@ body{
     width: 90dvw;
     height: 40dvh;
     margin-top: 10dvh;
-    margin-right: 2dvw;
+    margin-right: 50%;
     padding: 10px;
     border-radius: 8px;
 }
 
 .c3{
     background-color: aliceblue;
+    width: 90dvw;
     margin-top: 5dvh;
-    margin-right: 5dvw;
+    margin-right: 50%;
 }
 
 ul{
     list-style-type: none;
+}
+
+hr{
+    height: 4px;
+    margin-top: 0px;
+    background-color: black;
+    border: none;
 }
