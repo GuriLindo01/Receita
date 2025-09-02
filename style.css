@@ -1,71 +1,28 @@
-* {
-    padding: 0;
+*{
     margin: 0;
+    padding: 0;
 }
 
-.bandeira{
-    height: 50px;
-    width: 70px;
-    border-radius: 5px;
-}
-
-.comida {
-    width: 100px;
-    height: 100px;
-}
-
-.header1 {
-    text-align: center;
-    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/2554852-seamless-pattern-with-food-on-dark-blue-background-gratis-vetor.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 7dvh;
-    width: 100%;
-    justify-content: center;
-    align-items: center;
-    font-size: 16px;
-    font-family: sans-serif;
-    color: white;
-}
-
-body{
-    background-color: rgb(110, 144, 207);
-}
-
-.c1{
-    text-align: center;
-    background-color: aliceblue;
-    width: 90dvw;
-    height: 40dvh;
-    margin-top: 10dvh;
-    margin-left: 50%;
-    border-radius: 8px;
-}
-
-.c2{
-    background-color: aliceblue;
-    width: 90dvw;
-    height: 40dvh;
-    margin-top: 10dvh;
-    margin-right: 50%;
-    padding: 10px;
-    border-radius: 8px;
-}
-
-.c3{
-    background-color: aliceblue;
-    width: 90dvw;
-    margin-top: 5dvh;
-    margin-right: 50%;
-}
-
-ul{
-    list-style-type: none;
+.header1{
+    height: 5dvh;
 }
 
 hr{
-    height: 4px;
-    margin-top: 0px;
+    margin-top: 0;
+}
+
+.c1{
+    margin-left: 2dvw;
+}
+
+.c2{
+    margin-right: 2dvw;
+}
+
+.c3{
+    margin-left: 2dvw;
+}
+
+.footer1{
     background-color: black;
-    border: none;
 }
