@@ -8,7 +8,7 @@
     text-align: center;
     background-image: url("");
     background-size: cover;
-    justify-content: center;
+    align-items: center;
 }
 
 .header1 h1{
