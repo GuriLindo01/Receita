@@ -44,12 +44,13 @@ body{
     background-color: aliceblue;
     width: 90dvw;
     height: 40dvh;
-    margin-top: 20px;
+    margin-top: 10dvh;
   
 }
 
 .c3{
     background-color: aliceblue;
+    margin-top: 10dvh;
    
 }
 
