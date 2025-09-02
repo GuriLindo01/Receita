@@ -35,7 +35,7 @@ body{
 .c1{
     text-align: center;
     background-color: aliceblue;
-    width: 30dvwdvw;
+    width: 30dvw;
     height: 40dvh;
     margin-top: 10dvh;
     margin-right: 5dvw;
@@ -46,7 +46,7 @@ body{
     width: 30dvw;
     height: 40dvh;
     margin-top: 10dvh;
-    margin-left: 5dvw;
+    margin-left: 60dvw;
     padding: 5px;
 }
 
